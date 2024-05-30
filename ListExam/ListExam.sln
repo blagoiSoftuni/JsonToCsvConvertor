@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExam", "ListExam\ListExam.csproj", "{9BBD84A5-1ED2-4301-8D40-727DF2FAACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBD84A5-1ED2-4301-8D40-727DF2FAACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBD84A5-1ED2-4301-8D40-727DF2FAACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBD84A5-1ED2-4301-8D40-727DF2FAACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBD84A5-1ED2-4301-8D40-727DF2FAACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E43E78-4AF4-4930-ABB2-2C23199CF0A6}
+	EndGlobalSection
+EndGlobal
